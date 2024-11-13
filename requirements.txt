@@ -1,0 +1,9 @@
+torch
+diffusers
+ipykernel
+transformers
+accelerate
+ipywidgets
+huggingface_hub
+protobuf
+sentencepiece
